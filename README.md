@@ -1,3 +1,6 @@
+# ARGON EON SCRIPT 
+> curl https://download.argon40.com/argoneon.sh | bash
+
 # OMV6-DOCKER 
 
 > I found most of the guide are based on portainer and after some trial and error... It seems working, here is the guide for my own reference when I started to use jdownloader in docker.
