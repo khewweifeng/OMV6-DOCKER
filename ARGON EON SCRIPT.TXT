@@ -1,0 +1,1 @@
+curl https://download.argon40.com/argoneon.sh | bash
