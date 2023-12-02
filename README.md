@@ -1,6 +1,11 @@
-# ARGON EON SCRIPT 
+# [ARGON EON SCRIPT ](https://argon40.com/blogs/argon-resources/argon-eon-installation-manual)
 ```
 curl https://download.argon40.com/argoneon.sh | bash
+```
+
+# [OMV INSTALL SCRIPT](https://github.com/OpenMediaVault-Plugin-Developers/installScript) 
+```
+sudo curl -sSL https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
 
 # OMV6-DOCKER 
