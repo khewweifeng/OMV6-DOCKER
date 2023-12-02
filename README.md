@@ -1,5 +1,7 @@
 # ARGON EON SCRIPT 
-> curl https://download.argon40.com/argoneon.sh | bash
+```
+curl https://download.argon40.com/argoneon.sh | bash
+```
 
 # OMV6-DOCKER 
 
