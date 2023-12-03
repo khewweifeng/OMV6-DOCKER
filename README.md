@@ -11,6 +11,8 @@ sudo apt update && sudo apt upgrade -y
 sudo curl -sSL https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
 
+# [OMV ISSUES](https://github.com/openmediavault/openmediavault/issues)
+
 # OMV6-DOCKER 
 
 > I found most of the guide are based on portainer and after some trial and error... It seems working, here is the guide for my own reference when I started to use jdownloader in docker.
