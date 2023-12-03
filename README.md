@@ -2,6 +2,9 @@
 ```
 curl https://download.argon40.com/argoneon.sh | bash
 ```
+```
+sudo apt update && sudo apt upgrade -y
+```
 
 # [OMV INSTALL SCRIPT](https://github.com/OpenMediaVault-Plugin-Developers/installScript) 
 ```
