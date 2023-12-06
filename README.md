@@ -13,6 +13,14 @@ sudo curl -sSL https://github.com/OpenMediaVault-Plugin-Developers/installScript
 
 # [OMV ISSUES](https://github.com/openmediavault/openmediavault/issues)
 
+# DELETE ALL FILES IN DIRECTORY
+```
+cd /srv/dev-disk-by-uuid-2c9a9967-2bc8-4515-92f8-40e23d90ea3b/ssd/docker\ data/jdownloader/output
+```
+```
+rm -r *
+```
+
 # OMV6-DOCKER 
 
 > I found most of the guide are based on portainer and after some trial and error... It seems working, here is the guide for my own reference when I started to use jdownloader in docker.
