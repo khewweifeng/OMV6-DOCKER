@@ -31,10 +31,12 @@ rm -r *
 4. After reboot - services - compose - settings - default storage can be changed based on user preferences ... youtube have many video guides for this, I referred to this https://www.youtube.com/watch?v=y-OWVwpoGow&t=0s (setup omv and share folders)
 5. https://www.youtube.com/watch?v=1ICHdvSGHVs (setup docker / portainer in omv)
 6. OMV have "add from example" and you just need to edit your desired path ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/bf031af7-f32a-4261-9b43-588a46b1738b)
-7. Edit some parameter by following the quick start - https://hub.docker.com/r/jlesage/jdownloader-2#:~:text=time%20every%20day!-,Quick%20Start,-NOTE%3A%20The%20Docker and save. 
-8. After save - check - no error after check? - hit the up button and your docker service should be on now ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/2e3b1340-c964-4a42-bf88-1575d1572e62)
-9. This how it looks like when your docker service is on ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/6a7dce52-d8b1-4d66-b710-bd791bfda39a)
-10. This is how your docker storage looks like - **JUST LET IT BE, DO NOT MODIFY** ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/d2b9a0b7-5df9-4f9a-bcc9-7286740435a5) 
+7. **NEW UPDATE** ![653bf70a-af0e-4679-8e88-4a266b5e7bcf](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/069bb53c-7be1-4682-ad9f-03170640b4fb)
+
+
+8. Edit some parameter by following the quick start - https://hub.docker.com/r/jlesage/jdownloader-2#:~:text=time%20every%20day!-,Quick%20Start,-NOTE%3A%20The%20Docker and save. 
+9. After save - check - no error after check? - hit the up button and your docker service should be on now ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/2e3b1340-c964-4a42-bf88-1575d1572e62)
+10. This how it looks like when your docker service is on ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/6a7dce52-d8b1-4d66-b710-bd791bfda39a)
 11. The "jdownloader" folder will be generate based on docker files compose. ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/b5ccfa6d-5cdb-445c-bc46-452a3aaa4e11)
 12. In order to access the "output" folder, You need to create shared folder in omv - ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/10be4140-78ed-41a3-869c-7bbf6f9668eb)
 13. Setup share in SMB to enable windows to discover the "output" folder - ![image](https://github.com/khewweifeng/OMV6-DOCKER/assets/54496743/cc607f0d-a986-4828-bd30-c0bded66bdb4)
