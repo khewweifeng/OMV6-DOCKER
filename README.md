@@ -13,6 +13,9 @@ sudo curl -sSL https://github.com/OpenMediaVault-Plugin-Developers/installScript
 
 # SSH
 ```
+cmd /k ssh pi@raspberrypi.local
+```
+```
 wt ssh pi@raspberrypi.local
 ```
 ```
