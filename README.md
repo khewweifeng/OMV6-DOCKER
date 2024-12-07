@@ -24,7 +24,7 @@ raspberrypi.local
 
 # [OMV ISSUES](https://github.com/openmediavault/openmediavault/issues)
 
-# DELETE ALL FILES IN DIRECTORY
+## DELETE ALL FILES IN DIRECTORY
 ```
 cd /srv/dev-disk-by-uuid-2c9a9967-2bc8-4515-92f8-40e23d90ea3b/ssd/docker\ data/jdownloader/output
 ```
