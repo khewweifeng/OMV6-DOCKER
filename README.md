@@ -11,6 +11,14 @@ sudo apt update && sudo apt upgrade -y
 sudo curl -sSL https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
 
+# SSH
+```
+wt ssh pi@raspberrypi.local
+```
+```
+raspberrypi.local
+```
+
 # [OMV ISSUES](https://github.com/openmediavault/openmediavault/issues)
 
 # DELETE ALL FILES IN DIRECTORY
